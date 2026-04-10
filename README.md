@@ -21,7 +21,7 @@ Apr 10, 2026
 推奨はしませんが、このリポジトリの「Ff-lms-expand-tools」をクローンすることで、FireFoxの公式アドオンストア公開前でも導入することができます。その場合開発者モードを用いて導入する必要がありますが、データの保存はできないのでご注意ください。導入については下記URLが参考になると思います。
 [Mozilla「初めての拡張機能」](https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 ### 導入
-1. FireFoxのアドオン（ff-lms-expand-tools）を導入してください。
+1. FireFoxのアドオン（[Lms Expand Tools](https://addons.mozilla.org/en-US/firefox/addon/lms-expand-tools/)）を導入してください。
 2. アドオンの設定画面から授業名、LMSにアクセスするためのURLを入力してください。LMSにアクセスするためのURLは以下のように取得してください
    ~~~
    学務情報サービス＞履修・成績情報＞履修時間割表＞登録する授業名をクリック＞「LMS」欄のジャンプボタンを右クリックし、「リンクをコピー」をクリックし取得する
